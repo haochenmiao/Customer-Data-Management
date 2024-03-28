@@ -12,6 +12,12 @@ This project is a Java-based Customer Data Management System designed to organiz
 - Store customer records in a tagged linked list structure for efficient data retrieval.
 - Unit tests for validating the functionality of the data manager.
 
+## Diagram Screenshots
+![Class UML Diagram](https://github.com/haochenmiao/Customer-Data-Management/blob/main/DesignDocs/Proj03%20diagram%20-%20Class%20diagram.png)
+
+![Object UML Diagram](https://github.com/haochenmiao/Customer-Data-Management/blob/main/DesignDocs/Proj03%20diagram%20-%20Object%20diagram.png)
+
+
 ## Requirements
 
 - Java Development Kit (JDK) 11 or newer.
